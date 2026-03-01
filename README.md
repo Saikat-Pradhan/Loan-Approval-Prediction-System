@@ -87,7 +87,7 @@ These financial indicators help evaluate loan eligibility risk.
 - Credit Score (CIBIL)
 - Asset Details
 
-###Loan Approval Status (Target)Dataset used for training: loan_approval_dataset.csv
+### Loan Approval Status (Target)Dataset used for training: loan_approval_dataset.csv
 
 ---
 
